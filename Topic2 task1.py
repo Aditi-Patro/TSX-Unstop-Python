@@ -1,3 +1,4 @@
+#Write a script to calculate the area and perimeter of a rectangle using variables.
 l=3
 b=2
 area=l*b
